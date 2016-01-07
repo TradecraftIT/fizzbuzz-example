@@ -2,4 +2,4 @@
 
 working example of fizzbuz
 
-http://acesinc.github.io/fizzbuzz-example/
+http://tradecraftit.github.io/fizzbuzz-example/
